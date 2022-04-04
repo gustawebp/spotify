@@ -31,26 +31,32 @@ h1{
     
     background-color: #1db954; 
     font-size: 30pt;
-    width: 425px;
+    width: 375px;
     margin: auto;
-    -webkit-border-radius: 1px 100px 1px;
-    border-radius: 1px 100px 1px;
-    
+    border-radius: 50px;
+
+}
+
+
+h1:hover{ 
+    width: 400px;
 }
 
 #ts{
     width: 400px;
+    height: 85px;
 }
 
 #ts:hover{
     width: 425px;
+    height: 85px;
 }
 
 #mm{
     font-size: 15pt;
     font-family: 'Poppins', sans-serif;
-    color: #1db954;
-    background-color: rgba(255, 255, 255, 0.041);
+    color: #26c75e;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 #a5{
