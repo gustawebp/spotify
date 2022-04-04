@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,300;1,200&family=Rubik+Glitch&display=swap');
+body {
+    background-color: #191414;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: white;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+#spo{
+    width: 131px;
+    height: 40px;
+}
+
+#a1{
+    background-color: #1ed760 ;
+    border-radius: 1px 1px 1px;
+    width: 375px;
+    height: 80px;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    font-size: 20pt;
+    
+} 
+#a1:hover{
+    width: 390px;
+    height: 85px;
+    font-size: 22pt;
+}
+h1{
+    
+    background-color: #1db954; 
+    font-size: 30pt;
+    width: 425px;
+    margin: auto;
+    -webkit-border-radius: 1px 100px 1px;
+    border-radius: 1px 100px 1px;
+    
+}
+
+#ts{
+    width: 400px;
+}
+
+#ts:hover{
+    width: 425px;
+}
+
+#mm{
+    font-size: 15pt;
+    font-family: 'Poppins', sans-serif;
+    color: #1db954;
+    background-color: rgba(255, 255, 255, 0.041);
+}
+
+#a5{
+    text-decoration: none;
+    color: white;
+}
+
+
+footer{
+    background-color: rgba(0, 0, 0, 0.555);
+    width: 1420px;
+    height: 250px;
+   font-family: 'Poppins', sans-serif;
+    color: #1db954;
+    padding: 10px;
+}
+#footer{
+    background-color: rgb(170, 56, 56);
+}
+
+.sobre{
+    text-align: start;
+}
+
+
+h2{
+    color: white;
+    text-align: start;
+}
+ #gabr {
+     margin: auto;
+     border-radius: 20px;
+     color: #1db954;
+     box-shadow: 2px 2px 9px #00000000;
+ }
+
+
+
+.a{
+    text-decoration: none;
+    color: #1db954;
+}
+
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik Glitch', cursive; */
